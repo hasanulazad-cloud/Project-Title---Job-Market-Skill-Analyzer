@@ -80,6 +80,7 @@ Load postings from a CSV file or job-board API instead of hardcoded data
 Handle multi-word skills (for example "Power BI") as single tokens
 Visualise top skills with a bar chart
 Add a skill-gap checker that compares a candidate's skills with a target role
+
 👤 Author
 
 Hasanul H Azad Medical billing / RCM professional upskilling in Data Science, AI and Machine Learning GitHub: @hasanulazad-cloud
